@@ -167,7 +167,7 @@ Recursos para ampliar o acesso ao conhecimento.
 * 📚 Secretaria Municipal de Educação
 * 💻 Empresas de Tecnologia
 * 🌎 Comunidade Open Source
-* ☁️ Magalu Cloud
+
 
 ---
 
@@ -179,9 +179,15 @@ Recursos para ampliar o acesso ao conhecimento.
 
 # 👨‍🏫 Coordenação
 
-**Jhonessena**
+**Prof. Jhones Sena**
 
-Professor Universitário • Advogado • Pesquisador • Entusiasta de Tecnologia e Inovação
+CEO da GestãoBit • Professor Universitário •  Pesquisador •  Desenvolvedor de Projetos de Inovação
+
+Profissional com atuação multidisciplinar nas áreas de educação, tecnologia, gestão e desenvolvimento de soluções digitais. Como fundador e CEO da GestãoBit, lidera iniciativas voltadas à transformação digital, automação de processos, inteligência artificial e inovação aplicada.
+
+Na área acadêmica, atua como professor universitário, contribuindo para a formação de profissionais e para o desenvolvimento de projetos que conectam conhecimento, tecnologia e impacto social.
+
+É o idealizador e coordenador do SERRANACRAFT, projeto que utiliza gamificação, ambientes digitais e inteligência artificial para promover a educação patrimonial, preservar a memória histórica de Nova Serrana e fortalecer a identidade cultural das futuras gerações.
 
 ---
 
