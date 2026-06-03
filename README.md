@@ -5,7 +5,7 @@
 ### Plataforma de Educação Patrimonial Gamificada de Nova Serrana
 
 <p>
-  <img src="docs/images/banner-serranacraft.jpg" alt="Banner SerranaCraft" width="100%">
+  <img src="docs/images/serranacraft.png" alt="Banner SerranaCraft" width="100%">
 </p>
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange)
@@ -122,20 +122,10 @@ Recursos para ampliar o acesso ao conhecimento.
 ## Banner Institucional
 
 <p align="center">
-<img src="docs/images/banner-serranacraft.jpg" width="900">
+<img src="docs/images/serranacraft.png" width="900">
 </p>
 
-## Conceitos Iniciais
 
-<p align="center">
-<img src="docs/images/conceito-inicial.jpg" width="700">
-</p>
-
-## Protótipos
-
-<p align="center">
-<img src="docs/images/prototipo.jpg" width="700">
-</p>
 
 ---
 
